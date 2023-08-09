@@ -9,7 +9,7 @@
 
 ## Setting the Stage - An Exploration of CS50
 
-Computer Science 50 is a foundational course in computer science offered by Harvard University. It's accessible both on-campus and online through various professional certificate programs, covering diverse areas such as AI, Mobile App and Game Development, Business Technologies, and Programming Principles.
+Computer Science 50 is a foundational course offered by Harvard University. It's accessible both on-campus and online through various professional certificate programs, covering diverse areas such as AI, Mobile App and Game Development, Business Technologies, and Programming Principles.
 
 ![CS50 Professional Certificate Programs](./Admin/Images/CS50_Programs.png)
 
